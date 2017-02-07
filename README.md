@@ -9,3 +9,5 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 string
 kuuu
+
+string new
